@@ -1,1 +1,6 @@
-
+.splash-screen {
+  background-image: url("aidan-hancock-8RU4OuA6Yug-unsplash.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 669px;
+}
